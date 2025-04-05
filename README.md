@@ -11,6 +11,8 @@ anonimleştirme işlemleri için doğal dil işleme (NLP) tekniklerinden faydala
 güvenli veri saklama ve yetkilendirme mekanizmaları ile makalelerin korunmasını hedeflemektedir.
 
 Siteye ait görseller:
+
+
 ![image](https://github.com/user-attachments/assets/68cb2036-23c6-455a-abaa-9cb67b72be10)
 
 Fig. 1. Ana Panel
